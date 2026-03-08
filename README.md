@@ -1,6 +1,15 @@
 # 🤘 Metalpedia
 
-![Platform](https://metal-lore-hub.lovable.app )
+<img width="1540" height="808" alt="image" src="https://github.com/user-attachments/assets/6237ec40-91d7-4e74-8cc1-4ac50c914dbd" />
+
+![Status](https://img.shields.io)
+![Built with Lovable](https://img.shields.io)
+
+> [!TIP]
+> **🚀 Prueba la App aquí:** [https://metal-lore-hub.lovable.app](https://metal-lore-hub.lovable.app)
+
+**Metalpedia** es una enciclopedia interactiva para fans del metal...
+
 
 **Metalpedia** es una enciclopedia interactiva para fans del metal. Permite consultar fichas técnicas de bandas, explorar álbumes, verificar tours vigentes y conectar con una comunidad activa a través de reseñas y perfiles sociales.
 
@@ -70,7 +79,9 @@ Pregunta: ¿Las reseñas deben ser aprobadas por un administrador antes de publi
 - **Styling:** Tailwind CSS.
 - **Backend/Auth:** Supabase (configuración por defecto de Lovable).
 
+## Link del página
 
+https://metal-lore-hub.lovable.app 
 
 ---
 *Creado para la práctica de IA - 2026*
