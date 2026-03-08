@@ -73,5 +73,9 @@ Pregunta: ¿Las reseñas deben ser aprobadas por un administrador antes de publi
 - **Backend/Auth:** Supabase (configuración por defecto de Lovable).
 
 ---
-*Creado para la práctica de IA - 2026*
-*
+**Autor:** [Fabian Camilo López L]  
+**Bootcamp:** [KeepCoding BigData MachineLearning 16] - Creado para la práctica de IA - 2026
+**Fecha:** Marzo 2026
+
+
+
