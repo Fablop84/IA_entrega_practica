@@ -21,15 +21,9 @@
 Este repositorio es el resultado de una práctica de IA donde se utilizó un prompt estructurado para definir un **PRD** (Product Requirements Document), el cual fue posteriormente procesado por **Lovable** para generar la aplicación funcional.
 
 ## 📦 Documentación
-- **[PRD.md](./PRD.md):** Documento detallado con el alcance, requisitos funcionales y métricas de éxito.
+- **PRD.md(./PRD.md):** Documento detallado con el alcance, requisitos funcionales y métricas de éxito.
 
-## 🛠️ Tecnologías
-- **Core:** React / Vite (generado vía Lovable).
-- **Styling:** Tailwind CSS.
-- **Backend/Auth:** Supabase (configuración por defecto de Lovable).
-
-  ## PRD
-PRD.md
+- PRD.md
 Contexto y objetivo
 Crear una enciclopedia digital de bandas de metal para fans (casuales y expertos) que centralice información sobre géneros, álbumes y tours, fomentando el descubrimiento de música y la interacción entre usuarios a través de reseñas y redes sociales internas.
 Usuario objetivo
@@ -72,6 +66,12 @@ Open questions / Suposiciones
 Suposición: El perfil social mostrará públicamente las bandas favoritas y las reseñas escritas por el usuario.
 Suposición: Al no haber contraseña, el perfil se vincula permanentemente al email ingresado.
 Pregunta: ¿Las reseñas deben ser aprobadas por un administrador antes de publicarse o son instantáneas?
+
+## 🛠️ Tecnologías
+- **Core:** React / Vite (generado vía Lovable).
+- **Styling:** Tailwind CSS.
+- **Backend/Auth:** Supabase (configuración por defecto de Lovable).
+
 
 ## Link de la página
 
